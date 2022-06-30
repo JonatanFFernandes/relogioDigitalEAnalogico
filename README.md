@@ -1,2 +1,12 @@
-# relogioDigitalEAnalogico
- Projeto para pratica de conhecimento de HTML, CSS e JavaScript
+# Relogio Digital e Analógico
+
+ Projeto para prática de conhecimento em HTML, CSS e JavaScript.
+
+
+## Instalação
+
+- `npm install`
+
+## Para Executar
+
+- `npm start`
